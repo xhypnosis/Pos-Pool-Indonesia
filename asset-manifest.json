@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/www.cuanmax.net/static/css/main.1645271a.chunk.css",
+    "main.js": "/www.cuanmax.net/static/js/main.da0f8bd2.chunk.js",
+    "main.js.map": "/www.cuanmax.net/static/js/main.da0f8bd2.chunk.js.map",
+    "runtime-main.js": "/www.cuanmax.net/static/js/runtime-main.b6a26f4e.js",
+    "runtime-main.js.map": "/www.cuanmax.net/static/js/runtime-main.b6a26f4e.js.map",
+    "static/css/2.38d1bbab.chunk.css": "/www.cuanmax.net/static/css/2.38d1bbab.chunk.css",
+    "static/js/2.6caffd6a.chunk.js": "/www.cuanmax.net/static/js/2.6caffd6a.chunk.js",
+    "static/js/2.6caffd6a.chunk.js.map": "/www.cuanmax.net/static/js/2.6caffd6a.chunk.js.map",
+    "static/js/3.6875856e.chunk.js": "/www.cuanmax.net/static/js/3.6875856e.chunk.js",
+    "static/js/3.6875856e.chunk.js.map": "/www.cuanmax.net/static/js/3.6875856e.chunk.js.map",
+    "index.html": "/www.cuanmax.net/index.html",
+    "static/css/2.38d1bbab.chunk.css.map": "/www.cuanmax.net/static/css/2.38d1bbab.chunk.css.map",
+    "static/css/main.1645271a.chunk.css.map": "/www.cuanmax.net/static/css/main.1645271a.chunk.css.map",
+    "static/js/2.6caffd6a.chunk.js.LICENSE.txt": "/www.cuanmax.net/static/js/2.6caffd6a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/www.cuanmax.net/static/media/CuanMax.5321379e.svg",
+    "static/media/global.b9706118.svg": "/www.cuanmax.net/static/media/global.b9706118.svg",
+    "static/media/lang.2c683e02.svg": "/www.cuanmax.net/static/media/lang.2c683e02.svg",
+    "static/media/not-allow.ecffa81e.png": "/www.cuanmax.net/static/media/not-allow.ecffa81e.png",
+    "static/media/tips.1ade0b7d.svg": "/www.cuanmax.net/static/media/tips.1ade0b7d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6a26f4e.js",
+    "static/css/2.38d1bbab.chunk.css",
+    "static/js/2.6caffd6a.chunk.js",
+    "static/css/main.1645271a.chunk.css",
+    "static/js/main.da0f8bd2.chunk.js"
+  ]
+}
