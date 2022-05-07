@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.ce3b06ca.chunk.css",
-    "main.js": "/static/js/main.d23d38f6.chunk.js",
-    "main.js.map": "/static/js/main.d23d38f6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.916e721f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.916e721f.js.map",
-    "static/css/2.38d1bbab.chunk.css": "/static/css/2.38d1bbab.chunk.css",
-    "static/js/2.6fa63aa1.chunk.js": "/static/js/2.6fa63aa1.chunk.js",
-    "static/js/2.6fa63aa1.chunk.js.map": "/static/js/2.6fa63aa1.chunk.js.map",
-    "static/js/3.6875856e.chunk.js": "/static/js/3.6875856e.chunk.js",
-    "static/js/3.6875856e.chunk.js.map": "/static/js/3.6875856e.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.38d1bbab.chunk.css.map": "/static/css/2.38d1bbab.chunk.css.map",
-    "static/css/main.ce3b06ca.chunk.css.map": "/static/css/main.ce3b06ca.chunk.css.map",
-    "static/js/2.6fa63aa1.chunk.js.LICENSE.txt": "/static/js/2.6fa63aa1.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/CuanMax.5321379e.svg",
-    "static/media/global.b9706118.svg": "/static/media/global.b9706118.svg",
-    "static/media/lang.2c683e02.svg": "/static/media/lang.2c683e02.svg",
-    "static/media/not-allow.ecffa81e.png": "/static/media/not-allow.ecffa81e.png",
-    "static/media/tips.1ade0b7d.svg": "/static/media/tips.1ade0b7d.svg"
+    "main.css": "/Pos-Pool-Indonesia/static/css/main.663af753.chunk.css",
+    "main.js": "/Pos-Pool-Indonesia/static/js/main.04ff81e8.chunk.js",
+    "main.js.map": "/Pos-Pool-Indonesia/static/js/main.04ff81e8.chunk.js.map",
+    "runtime-main.js": "/Pos-Pool-Indonesia/static/js/runtime-main.bfe611ee.js",
+    "runtime-main.js.map": "/Pos-Pool-Indonesia/static/js/runtime-main.bfe611ee.js.map",
+    "static/css/2.38d1bbab.chunk.css": "/Pos-Pool-Indonesia/static/css/2.38d1bbab.chunk.css",
+    "static/js/2.e6d934f1.chunk.js": "/Pos-Pool-Indonesia/static/js/2.e6d934f1.chunk.js",
+    "static/js/2.e6d934f1.chunk.js.map": "/Pos-Pool-Indonesia/static/js/2.e6d934f1.chunk.js.map",
+    "static/js/3.6875856e.chunk.js": "/Pos-Pool-Indonesia/static/js/3.6875856e.chunk.js",
+    "static/js/3.6875856e.chunk.js.map": "/Pos-Pool-Indonesia/static/js/3.6875856e.chunk.js.map",
+    "index.html": "/Pos-Pool-Indonesia/index.html",
+    "static/css/2.38d1bbab.chunk.css.map": "/Pos-Pool-Indonesia/static/css/2.38d1bbab.chunk.css.map",
+    "static/css/main.663af753.chunk.css.map": "/Pos-Pool-Indonesia/static/css/main.663af753.chunk.css.map",
+    "static/js/2.e6d934f1.chunk.js.LICENSE.txt": "/Pos-Pool-Indonesia/static/js/2.e6d934f1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Pos-Pool-Indonesia/static/media/CuanMax.5321379e.svg",
+    "static/media/global.b9706118.svg": "/Pos-Pool-Indonesia/static/media/global.b9706118.svg",
+    "static/media/lang.2c683e02.svg": "/Pos-Pool-Indonesia/static/media/lang.2c683e02.svg",
+    "static/media/not-allow.ecffa81e.png": "/Pos-Pool-Indonesia/static/media/not-allow.ecffa81e.png",
+    "static/media/tips.1ade0b7d.svg": "/Pos-Pool-Indonesia/static/media/tips.1ade0b7d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.916e721f.js",
+    "static/js/runtime-main.bfe611ee.js",
     "static/css/2.38d1bbab.chunk.css",
-    "static/js/2.6fa63aa1.chunk.js",
-    "static/css/main.ce3b06ca.chunk.css",
-    "static/js/main.d23d38f6.chunk.js"
+    "static/js/2.e6d934f1.chunk.js",
+    "static/css/main.663af753.chunk.css",
+    "static/js/main.04ff81e8.chunk.js"
   ]
 }
