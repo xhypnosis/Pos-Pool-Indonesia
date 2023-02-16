@@ -2,7 +2,7 @@ import {createPortal} from 'react-dom'
 // import {Link} from 'react-router-dom' hypnos
 // import { Layout, Button, Select } from 'antd' hypnos
 import {Layout, Button} from 'antd'
-import {Menu, Dropdown, Alert, Modal} from 'antd' // hypnos
+import {Menu, Dropdown, Alert, Modal} from 'antd' // hypnos 23/02/16
 import {useTranslation} from 'react-i18next'
 import {useTryActivate, useAccount} from '../../../hooks/useWallet'
 import {isTestNetEnv} from '../../../utils'
@@ -117,7 +117,7 @@ function HeaderComp() {
       {/* hypnos+m 23/02/16 */}
       <Modal
         title="Offline warning"
-        open={isModalOpen}
+        visible={isModalOpen}
         onOk={handleOk}
         onCancel={handleCancel}
       >
