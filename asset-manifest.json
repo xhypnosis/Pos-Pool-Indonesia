@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.6e96c062.chunk.css",
-    "main.js": "/static/js/main.a2aeb036.chunk.js",
-    "main.js.map": "/static/js/main.a2aeb036.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.916e721f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.916e721f.js.map",
+    "main.css": "/static/css/main.ff66e4c3.chunk.css",
+    "main.js": "/static/js/main.e5023767.chunk.js",
+    "main.js.map": "/static/js/main.e5023767.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ce71d3ac.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ce71d3ac.js.map",
     "static/css/2.38d1bbab.chunk.css": "/static/css/2.38d1bbab.chunk.css",
-    "static/js/2.d3fdd27a.chunk.js": "/static/js/2.d3fdd27a.chunk.js",
-    "static/js/2.d3fdd27a.chunk.js.map": "/static/js/2.d3fdd27a.chunk.js.map",
-    "static/js/3.6875856e.chunk.js": "/static/js/3.6875856e.chunk.js",
-    "static/js/3.6875856e.chunk.js.map": "/static/js/3.6875856e.chunk.js.map",
+    "static/js/2.4174928f.chunk.js": "/static/js/2.4174928f.chunk.js",
+    "static/js/2.4174928f.chunk.js.map": "/static/js/2.4174928f.chunk.js.map",
+    "static/js/3.9e479c74.chunk.js": "/static/js/3.9e479c74.chunk.js",
+    "static/js/3.9e479c74.chunk.js.map": "/static/js/3.9e479c74.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.38d1bbab.chunk.css.map": "/static/css/2.38d1bbab.chunk.css.map",
-    "static/css/main.6e96c062.chunk.css.map": "/static/css/main.6e96c062.chunk.css.map",
-    "static/js/2.d3fdd27a.chunk.js.LICENSE.txt": "/static/js/2.d3fdd27a.chunk.js.LICENSE.txt",
+    "static/css/main.ff66e4c3.chunk.css.map": "/static/css/main.ff66e4c3.chunk.css.map",
+    "static/js/2.4174928f.chunk.js.LICENSE.txt": "/static/js/2.4174928f.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/CuanMax.5321379e.svg",
     "static/media/global.b9706118.svg": "/static/media/global.b9706118.svg",
     "static/media/lang.2c683e02.svg": "/static/media/lang.2c683e02.svg",
@@ -21,10 +21,10 @@
     "static/media/tips.1ade0b7d.svg": "/static/media/tips.1ade0b7d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.916e721f.js",
+    "static/js/runtime-main.ce71d3ac.js",
     "static/css/2.38d1bbab.chunk.css",
-    "static/js/2.d3fdd27a.chunk.js",
-    "static/css/main.6e96c062.chunk.css",
-    "static/js/main.a2aeb036.chunk.js"
+    "static/js/2.4174928f.chunk.js",
+    "static/css/main.ff66e4c3.chunk.css",
+    "static/js/main.e5023767.chunk.js"
   ]
 }
